@@ -1,0 +1,16 @@
+sha > blobs > tree > commits
+
+chave ssh forma segura de comunicação entre duas maquinas	
+
+-a mostra pasta ocultas
+
+untracked arq que nao temos ciencia deles
+tracked temos ciencia
+
+git status / para ver situação dos arquivos
+git add nomeDoArquivo / passa um arquivo especifico para stage area
+git add * ou git add. / passa todos
+git remote -v / lista arquivos dentro do repositorio
+
+staged lugar onde arquivos estão sendo preparados
+
